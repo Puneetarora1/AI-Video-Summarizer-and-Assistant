@@ -1,4 +1,3 @@
-
 # 🎥 AI Video Summarizer & Assistant
 
 ## 📌 Project Overview
@@ -23,11 +22,6 @@ The application transcribes video audio using OpenAI Whisper, generates structur
 - **Backend:** FastAPI
 - **Version Control:** Git, GitHub
 
-
-## 🖥️ Application Preview
-
-![AI Video Summarizer & Assistant UI](screenshots/app-ui.png)
-
 ## ✨ Key Features
 
 - YouTube and local video processing
@@ -42,5 +36,8 @@ The application transcribes video audio using OpenAI Whisper, generates structur
 - Understanding of RAG, vector search, and contextual question answering.
 - Experience building APIs and integrating AI components into an end-to-end application.
 
+## 🖥️ Application Preview
+
+- ![Web Application View](https://github.com/Puneetarora1/AI-Video-Summarizer-and-Assistant/blob/main/AI%20Assistant%20snapshot.png)
 
 ---
